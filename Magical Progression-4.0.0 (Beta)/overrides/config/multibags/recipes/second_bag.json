@@ -1,0 +1,1 @@
+{"enable":true,"inputs":{"grid":["A B A","A C A","A A A"],"A":{"item":"multibags:second_fabric"},"B":{"item":"minecraft:ender_chest"},"C":{"item":"multibags:first_bag"}},"output":{"item":"multibags:second_bag"}}

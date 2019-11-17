@@ -1,0 +1,2 @@
+#List of Hidden Players
+jake_a_bob:false

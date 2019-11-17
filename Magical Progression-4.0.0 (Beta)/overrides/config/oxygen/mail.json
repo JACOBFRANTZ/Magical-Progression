@@ -1,0 +1,24 @@
+{
+  "version": "0.9.0:beta:0",
+  "setup": {
+    "mail_save_delay_minutes": 2
+  },
+  "main": {
+    "mailbox_size": 50,
+    "system_letter_expire_time_hours": -1,
+    "letter_expire_time_hours": 720,
+    "system_remittance_expire_time_hours": -1,
+    "remittance_expire_time_hours": 24,
+    "system_package_expire_time_hours": -1,
+    "package_expire_time_hours": 24,
+    "package_with_cod_expire_time_hours": 1,
+    "mail_sending_delay_seconds": 30,
+    "remittance_max_value": 10000,
+    "package_max_amount": -1,
+    "package_with_cod_max_value": 10000,
+    "letter_postage_value": 0,
+    "remittance_postage_percent": 5,
+    "package_postage_value": 100,
+    "package_with_cod_postage_percent": 5
+  }
+}

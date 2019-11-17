@@ -1,0 +1,15 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+vtt:brewer
+vtt:redstoner
+vtt:tinkerer
+roots:druid
+rats:pet_shop_owner
+totemic:totemist
+vampirism:hunter_expert
+vampirism:vampire_expert
+endreborn:explorer

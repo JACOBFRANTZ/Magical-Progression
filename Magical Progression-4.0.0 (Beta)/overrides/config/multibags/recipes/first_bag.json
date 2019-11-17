@@ -1,0 +1,1 @@
+{"enable":true,"inputs":{"grid":["A B A","A B A","A A A"],"A":{"item":"multibags:first_fabric"},"B":{"item":"minecraft:chest"}},"output":{"item":"multibags:first_bag"}}

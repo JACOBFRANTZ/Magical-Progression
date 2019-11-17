@@ -1,0 +1,1 @@
+{"enable":true,"inputs":{"grid":["A B B","A C B","B A A"],"A":{"item":"minecraft:tnt"},"B":{"item":"multibags:second_fabric"},"C":{"item":"minecraft:diamond_sword"}},"output":{"item":"multibags:power_update"}}

@@ -1,0 +1,1 @@
+{"enable":true,"inputs":{"grid":["A B A","B C B","A B A"],"A":{"item":"minecraft:ender_eye"},"B":{"item":"minecraft:ender_chest"},"C":{"item":"multibags:third_bag"}},"output":{"item":"multibags:ender_bag"}}

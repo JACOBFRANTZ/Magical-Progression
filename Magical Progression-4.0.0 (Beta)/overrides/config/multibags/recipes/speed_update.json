@@ -1,0 +1,1 @@
+{"enable":true,"inputs":{"grid":["A A A","B C B","D A D"],"A":{"item":"minecraft:prismarine_shard"},"B":{"item":"multibags:fifth_fabric"},"C":{"item":"minecraft:diamond_boots"},"D":{"item":"minecraft:packed_ice"}},"output":{"item":"multibags:speed_update"}}
